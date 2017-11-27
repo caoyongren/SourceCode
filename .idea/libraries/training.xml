@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="training">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/NavigationDrawer.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/ActivityRecognition.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/LocationUpdates.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/InteractiveChart.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/PhotoIntentActivity.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/CustomView.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/BasicSyncAdapter.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/ActivityLifecycle.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/GeofenceDetection.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/LocationProvider.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/NotifyUser.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/ThreadSample.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/AndroidTestingFun.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/DeviceManagement.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/LocationAware.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/ControllerSample.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/FragmentBasics.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/Animations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/EffectiveNavigation.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/MobileAds.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/NetworkUsage.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/NsdChat.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/OpenGLES.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/Scheduler.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/GoogleAuth.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/TabCompat.zip!/" />
+      <root url="jar://$PROJECT_DIR$/base/docs/downloads/training/NewsReader.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
