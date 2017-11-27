@@ -1,3 +1,5 @@
+/*___Generated_by_IDEA___*/
+
 /*
  * This file is auto-generated.  DO NOT MODIFY.
  * Original file: /media/matthew/Android-studio/OTOSOURCECODE/base/core/java/android/service/chooser/IChooserTargetService.aidl
